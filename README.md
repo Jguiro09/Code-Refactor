@@ -18,7 +18,10 @@ The following assignment was provided at UT Austin's Bootcamp. The goal was to a
 ## What Is The Point?
 
 ```
-Learning how to refact code is an essential skill you will need to develop as a junior developer. It allows for the code you are refactoring to be easily read and managable by other people. Not cleaning up code can make it difficult to attempt and debug huge errors that may come up. This can lead to more time wasted and could reduce overall efficiency on your project.
+Learning how to refact code is an essential skill you will need to develop as a junior developer.  
+It allows for the code you are refactoring to be easily read and managable by other people. Not cleaning up   
+code can make it difficult to attempt and debug huge errors that may come up. This can lead to more time wasted   
+and could reduce overall efficiency on your project.
 ```
 
 ## Starting HTML Code
@@ -32,7 +35,8 @@ Learning how to refact code is an essential skill you will need to develop as a 
 
 ## Issue With HTML Code
 ```
-    The code is very unorganized. Without looking at the website, you would would have a hard time being able to tell which part of the code is the header, main, or footer. Simply refactoring this code could:
+    The code is very unorganized. Without looking at the website, you would would have a hard time being able to   
+    tell which part of the code is the header, main, or footer. Simply refactoring this code could:  
 
     1. Make the code look cleaner and easier to look at
     2. Allow other users the ability to navigate your code with ease
@@ -99,7 +103,7 @@ Learning how to refact code is an essential skill you will need to develop as a 
 
 #### Before
 <br>
-<img src = "./assets/README/BeforeHeader.png" alt = "Before Header" width = "30%">
+<img src = "./assets/README/BeforeHeader.png" alt = "Before Header" width = "100%">
 
 <br>
 <br>
@@ -145,7 +149,7 @@ You are generally looking for any style that seem to overlap eachother which cou
 
 #### Before
 <br>
-<img src = "./assets/README/BeforeBenefit.png" alt = "Before Benefits" width = "15%">
+<img src = "./assets/README/BeforeBenefit.png" alt = "Before Benefits" width = "40%">
 
 <br>
 <br>
@@ -166,7 +170,7 @@ You are generally looking for any style that seem to overlap eachother which cou
 
 #### Before
 <br>
-<img src = "./assets/README/BeforeSOS.png" alt = "Before SOS" width = "30%">
+<img src = "./assets/README/BeforeSOS.png" alt = "Before SOS" width = "60%">
 
 <br>
 <br>
