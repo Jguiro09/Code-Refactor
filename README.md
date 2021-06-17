@@ -13,6 +13,7 @@ The following assignment was provided at UT Austin's Bootcamp. The goal was to a
 - [Solutions for HTML Code](#Solutions-for-HTML-Code)
 - [Refactoring CSS Code](#Refactoring-CSS-Code)
 - [Conclusion](#Conclusion)
+- [License](#License)
 
 
 ## What Is The Point?
@@ -195,3 +196,6 @@ The following benefits were for CSS:
 
 1. Reducing the clutter of reused coding and a better foundation of how classes and IDs can work together
 2. Reduced amount of lines from 200 to 135.
+
+## License
+https://opensource.org/licenses/MIT
