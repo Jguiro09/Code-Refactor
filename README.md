@@ -1,27 +1,29 @@
 # Code-Refactor
-Adjusting code as a first assignment for UT Austin's Bootcamp
+
+**Final Website:** https://jguiro09.github.io/Code-Refactor/
 
 ## Introduction
 
-The following assignment was provided at UT Austin's Bootcamp. The goal was to adjust the code (without changing what it does) by polishing and renamming code names.
+Learning how to refact code is an essential skill you will need to develop as a junior developer.  
+It allows for the code you are refactoring to be easily read and managable by other people. Not cleaning up   
+code can make it difficult to attempt and debug huge errors that may come up. This can lead to more time wasted   
+and could reduce overall efficiency on your project.
 
 ## Table of Contents
 
-- [What Is The Point?](#What-Is-The-Point)
+- [Initial Goals](#Initial-Goals)
 - [Starting HTML Code](#Starting-HTML-Code)
 - [Issue With HTML Code](#Issue-With-HTML-Code)
 - [Solutions for HTML Code](#Solutions-for-HTML-Code)
 - [Refactoring CSS Code](#Refactoring-CSS-Code)
 - [Conclusion](#Conclusion)
+- [License](#License)
 
-
-## What Is The Point?
-
+## Initial Goals
 ```
-Learning how to refact code is an essential skill you will need to develop as a junior developer.  
-It allows for the code you are refactoring to be easily read and managable by other people. Not cleaning up   
-code can make it difficult to attempt and debug huge errors that may come up. This can lead to more time wasted   
-and could reduce overall efficiency on your project.
+    1. Understand the importance of refactoring.
+    2. Understand what to look for when refactoring HTML Code.
+    3. Understand what to look for when refactoring CSS Code.
 ```
 
 ## Starting HTML Code
@@ -195,3 +197,6 @@ The following benefits were for CSS:
 
 1. Reducing the clutter of reused coding and a better foundation of how classes and IDs can work together
 2. Reduced amount of lines from 200 to 135.
+
+## License
+https://opensource.org/licenses/MIT
